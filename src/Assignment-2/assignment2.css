@@ -5,3 +5,76 @@
 width: 100%;
 height: 100%;
 }
+header{
+    height: 150px;
+    
+    margin: 10px;
+    background-color: rgb(88, 154, 146);
+}
+.image-logo{
+    height: 50px;
+    width: 100px;
+    margin-top: 40px;
+    padding-left: 10px;
+}
+.n-bar{
+    
+    padding-left: 420px; 
+    margin-top: 20px;
+    padding-top: 10px;
+}
+nav{
+    
+    height: 40px;
+    background-color: rgb(176, 147, 110);
+}
+
+.list-1{
+    display: inline;
+    margin: 25px;
+   
+}
+form{
+    float: right;
+    padding-right: 40px;
+    margin: -20px;
+}
+main{
+border:1px solid black;
+margin: 10px;
+}
+aside{
+    float: left;
+    border:1px solid black; 
+    width: 15%;
+    height: 650px;
+    margin: 5px;
+    background-color: rgb(192, 177, 160);
+}
+.list-2 , .list-3{
+    margin: 35px;
+}
+section{
+    display: inline-block;
+    border: 1px solid black;
+    width: 60%;
+    margin: 5px;
+    background-color: rgba(144, 100, 139, 0.94);
+}
+
+.post-img{
+    width: 200px;
+    height: 280px;
+    margin: 20px;
+    padding-left: 40px;
+}
+.right-sidebar{
+    float: right;
+    width: 22.5% ;
+}
+
+footer{
+    margin: 10px;
+    border: 1px solid black ;
+    background-color: rgb(165, 132, 132);
+}
